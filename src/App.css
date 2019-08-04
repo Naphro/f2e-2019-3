@@ -1,33 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather+Sans&display=swap');
+
+* {
+    box-sizing: border-box;
+  font-family: "Merriweather Sans", sans-serif;
+}
+
 .App {
-  text-align: center;
+    position: relative;
+    width: 375px;
+    height: 812px;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+.view {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to top, rgba(255, 255, 255, 0.9) 25%, rgba(255, 255, 255, 0) 40%), url("./assets/png/8C9Evy.png") center bottom no-repeat;
+    z-index: -1;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.top-part {
+    width: 100%;
+    height: 66%;
+    padding: 76px 0 13px 0;
 }
 
-.App-link {
-  color: #61dafb;
+.window {
+    width: 327px;
+    height: 447px;
+    margin: 0 auto;
+    border: 10px solid white;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16)
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.bottom-part {
+    width: 100%;
+    height: 34%;
+    padding: 42px 0 52px 0;
 }
