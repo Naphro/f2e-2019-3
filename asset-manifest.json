@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/f2e-2019-3/static/css/main.02c362c4.chunk.css",
+    "main.js": "/f2e-2019-3/static/js/main.ea067691.chunk.js",
+    "main.js.map": "/f2e-2019-3/static/js/main.ea067691.chunk.js.map",
+    "runtime~main.js": "/f2e-2019-3/static/js/runtime~main.dcb8488b.js",
+    "runtime~main.js.map": "/f2e-2019-3/static/js/runtime~main.dcb8488b.js.map",
+    "static/js/2.64ed206d.chunk.js": "/f2e-2019-3/static/js/2.64ed206d.chunk.js",
+    "static/js/2.64ed206d.chunk.js.map": "/f2e-2019-3/static/js/2.64ed206d.chunk.js.map",
+    "index.html": "/f2e-2019-3/index.html",
+    "precache-manifest.6b124a42569322d6564a2ad3f1a81dc2.js": "/f2e-2019-3/precache-manifest.6b124a42569322d6564a2ad3f1a81dc2.js",
+    "service-worker.js": "/f2e-2019-3/service-worker.js",
+    "static/css/main.02c362c4.chunk.css.map": "/f2e-2019-3/static/css/main.02c362c4.chunk.css.map",
+    "static/media/App.css": "/f2e-2019-3/static/media/8C9Evy.90c18347.png",
+    "static/media/Ice_Cream.mp3": "/f2e-2019-3/static/media/Ice_Cream.3e3ce561.mp3",
+    "static/media/Images_of_Tomorrow.mp3": "/f2e-2019-3/static/media/Images_of_Tomorrow.f283d3f0.mp3",
+    "static/media/btn_Fast.svg": "/f2e-2019-3/static/media/btn_Fast.9d632e81.svg",
+    "static/media/btn_Play.svg": "/f2e-2019-3/static/media/btn_Play.e2d60d81.svg",
+    "static/media/btn_RepeatAll.svg": "/f2e-2019-3/static/media/btn_RepeatAll.17b36287.svg",
+    "static/media/btn_RepeatOne.svg": "/f2e-2019-3/static/media/btn_RepeatOne.635bd6c4.svg",
+    "static/media/btn_Rewind.svg": "/f2e-2019-3/static/media/btn_Rewind.9fa2e44f.svg",
+    "static/media/btn_ShufflePlayback.svg": "/f2e-2019-3/static/media/btn_ShufflePlayback.0b297e0c.svg",
+    "static/media/btn_pause.svg": "/f2e-2019-3/static/media/btn_pause.39a3f09c.svg"
+  }
+}
